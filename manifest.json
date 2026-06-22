@@ -1,0 +1,7 @@
+{
+  "name": "DM Editor",
+  "version": "1.0.0",
+  "description": "Visually edit DM messages client-side",
+  "author": "kettu",
+  "main": "discord-dm-editor.plugin.js"
+}
